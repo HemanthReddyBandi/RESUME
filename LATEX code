@@ -1,0 +1,127 @@
+\documentclass[a4paper,10pt]{article}
+\renewcommand{\arraystretch}{0.8}  % Reduce space in tables
+\usepackage[left=0.6in, right=0.6in, top=0.4in, bottom=0.6in]{geometry}  % Smaller margins
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{fontawesome} % For icons
+\usepackage{hyperref}
+\setlength{\parskip}{0pt}  % Remove space between paragraphs
+\setlength{\parindent}{0pt}  % Remove paragraph indentation
+\titlespacing*{\section}{0pt}{2pt}{2pt}  % Reduced section spacing
+% Reduce space in itemize lists
+\setlist[itemize]{topsep=0pt, itemsep=1pt, leftmargin=*}
+% Formatting Section Titles
+\titleformat{\section}
+  {\color{blue}\large\bfseries}{}{0em}{}[\color{black}\titlerule]
+
+\begin{document}
+
+\begin{center}
+    {\huge \textbf{BANDI HEMANTH REDDY}} \\
+    \vspace{0.3cm}
+    \faPhone \hspace{2pt} 6302384423 \hspace{0.2cm}
+    \faMapMarker \,Tirupati \hspace{0.2cm}
+    \faLinkedin \hspace{2pt} \href{https://www.linkedin.com/in/hemanth}{linkedin.com/in/hemanth} \hspace{0.2cm}
+    \faGithub \hspace{2pt} \href{https://www.github.com/}{github.com/hemanth} \hspace{0.2cm} 
+    \faEnvelope \hspace{2pt} hemanth.in22@gmail.com
+\end{center}
+
+\vspace{0.1cm}
+\hrule
+\vspace{0.1cm}
+
+\noindent
+\textbf{Career Objective:}  
+I am an aspiring AI/ML engineer and full-stack developer with a strong passion for leveraging advanced technologies to develop innovative and scalable solutions. I am committed to contributing to cutting-edge projects while continuously refining my technical expertise, problem-solving abilities, and software engineering skills.
+\setlist[itemize,1]{topsep=0pt, itemsep=0pt, leftmargin=*, labelsep=1em, parsep=0pt, partopsep=0pt} 
+\section{Experience}
+\textbf{Python Django Developer Intern} \hfill \textbf{-- Assistive Technologies} 
+\begin{itemize}[topsep=0pt, itemsep=0pt, leftmargin=*]
+    \item Developed and maintained Django-based web applications.
+    \item Integrated SQL databases and RESTful APIs for seamless functionality.
+    \item Worked on authentication modules and data security.
+\end{itemize}
+
+\textbf{Full Stack Developer Intern} \hfill \textbf{-- WebMakers} 
+\begin{itemize}[topsep=0pt, itemsep=0pt, leftmargin=*]
+    \item Designed and developed responsive web applications using React.js and Django.
+    \item Implemented UI/UX improvements, enhancing user engagement.
+    \item Built and deployed a full-stack project integrating HTML, CSS, JavaScript, and MySQL.
+\end{itemize}
+
+\section{Technical Skills}
+\begin{tabular}{@{} l l @{}}
+\textbf{Programming Languages:} & Python, Java, C, C++ \\
+\textbf{Frontend Development:} & HTML, CSS, JavaScript, React.js \\
+\textbf{Backend Development:} & Django, PHP, SQL
+\end{tabular}
+
+\section{Education}
+\textbf{Bachelor of Technology - CSM}  \\
+Siddartha Institute Of Engineering and Technology, Puttur \hfill \textbf{2023 - 2026}  \\
+CGPA: 8.5
+
+\textbf{Diploma in Computer Science and Engineering}  \\
+Sri Venkateswara Government Polytechnic College, Tirupati \hfill \textbf{2020 - 2023}  \\
+CGPA: 8.8
+
+\textbf{Secondary School Certificate (SSC)} \\
+Zilla Parishad High School, Pachikapallam \hfill \textbf{2019 - 2020}  \\
+CGPA: 10
+\setlist[itemize,1]{topsep=0pt, itemsep=0pt, leftmargin=*, labelsep=1em, parsep=0pt, partopsep=0pt} 
+\section{Academic Projects}
+\textbf{BookMart - Full Stack Website}  
+\begin{itemize}[topsep=0pt, itemsep=0pt, leftmargin=*]
+    \item Developed an online book marketplace using HTML, CSS, JavaScript, and PHP during my diploma final year.
+    \item Implemented secure authentication, search filters, and a responsive UI.
+\end{itemize}
+
+\textbf{Personal Portfolio Website}  
+\begin{itemize}[topsep=0pt, itemsep=0pt, leftmargin=*]
+    \item Designed a modern, fully responsive personal website using React.js and Tailwind CSS.
+    \item Showcased my skills, projects, and resume interactively.
+\end{itemize}
+
+\section{Certifications}
+\begin{tabular}{@{} l l @{}}
+\textbf{Python Basics} & -- HackerRank \\
+\textbf{Django with SQL and Databases} & -- IBM (edX) \\
+\textbf{HTML5 and CSS Fundamentals} & -- W3Cx (edX) \\
+\textbf{Programming in Java} & -- NPTEL \\
+\textbf{Introduction to AI} & -- Great Learning \\
+\end{tabular}
+
+\section{Languages Known}
+\begin{itemize}[topsep=-1pt, itemsep=0pt, leftmargin=*]
+    \item English  
+    \item Telugu  
+    \item Hindi  
+\end{itemize}
+
+\section{Hobbies}
+\begin{itemize}[topsep=0pt, itemsep=0pt, leftmargin=*]
+    \item Exploring New Technologies: I am passionate about AI/ML, Full stack Development, and Cybersecurity.  
+    \item Playing Chess: It enhances strategic and analytical thinking.  
+    \item Playing Cricket: It improves teamwork and decision-making under pressure.  
+
+\end{itemize}
+
+\section{Extra-Curricular Activities}
+\begin{itemize}[topsep=0pt, itemsep=0pt, leftmargin=*]
+    \item Won Gold Medal from Tata Consultancy in Essay Writing on Emerging Technologies.  
+    \item Led a team as Captain in Cricket and Kabaddi Zonal Competitions, enhancing leadership skills.  
+\end{itemize}
+
+\vspace{0.3cm}
+\hrule
+\vspace{0.3cm}
+\noindent
+\textbf{Declaration:}  
+I hereby declare that all the above information is true and correct to the best of my knowledge.  \\
+\noindent
+\vspace{1cm}
+\textbf{Date:} \underline{\hspace{2cm}} \hfill \textbf{Signature:} \underline{\hspace{4cm}}
+
+\end{document}
